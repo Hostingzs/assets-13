@@ -1,0 +1,11 @@
+{
+"companyName": "Big Frost Games",
+"productName": "Circuroid",
+"dataUrl": "circuroid_poki.data.unityweb",
+"asmCodeUrl": "circuroid_poki.asm.code.unityweb",
+"asmMemoryUrl": "circuroid_poki.asm.memory.unityweb",
+"asmFrameworkUrl": "circuroid_poki.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"splashScreenStyle": "Dark",
+"backgroundColor": "#18242F"
+}

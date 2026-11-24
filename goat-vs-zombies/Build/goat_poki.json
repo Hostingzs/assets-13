@@ -1,0 +1,13 @@
+{
+"companyName": "Paper Bunker",
+"productName": "Goat vs Zombies",
+"dataUrl": "goat_poki.data.unityweb",
+"wasmCodeUrl": "goat_poki.wasm.code.unityweb",
+"wasmFrameworkUrl": "goat_poki.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"cacheControl": {"default": "must-revalidate"}
+}
